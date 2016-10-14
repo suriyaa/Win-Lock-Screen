@@ -2,6 +2,8 @@
 
 > Enable / Disable the Lock Screen for Windows 8, 8.1 &amp; 10.
 
+!["Oprah: Everyone gets Windows 10" Meme -- Made by Suriyaa Kudo](https://cloud.githubusercontent.com/assets/5073946/19389293/c42f5bae-9223-11e6-80d6-1512270a867a.jpg)
+
 ## Install
 Download the .reg files.
 
